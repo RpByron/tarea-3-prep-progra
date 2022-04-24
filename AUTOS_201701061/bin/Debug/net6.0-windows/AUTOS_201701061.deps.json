@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AUTOS_201701061/1.0.0": {
+        "runtime": {
+          "AUTOS_201701061.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AUTOS_201701061/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
